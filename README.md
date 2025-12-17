@@ -1,5 +1,7 @@
 # Gerador de Senhas
 
+🔗 **Demo online:** https://senhas-liart.vercel.app
+
 Projeto simples desenvolvido para praticar **lógica de programação**, 
 **manipulação de DOM** e **JavaScript básico**, com foco em geração de 
 senhas aleatórias de forma dinâmica.
